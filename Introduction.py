@@ -31,7 +31,7 @@ def name(your_name):
         your_age = input("Please tell me your age")
         age(your_age,a)
     else:
-        print("you have entered wrong name,check wether you have entered any digit in name")
+        print("you have entered wrong age,check wether you have entered any digit in name")
         your_name=input("Enter your name ")
         name(your_name)
 
