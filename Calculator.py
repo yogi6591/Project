@@ -1,7 +1,7 @@
 #Write a python program to perform the mathematical calculations.
 print("Hey,Welcome Mukesh Dubey")
 import math
-def Addition():
+def Addition(): 
     print("\n")
     x=int(input("Enter any number"))
     y=int(input("Enter any number"))
@@ -63,7 +63,7 @@ def Exponential():
     menu()
 
 
-def menu():
+def menu():         #menu
     print("***\nPress 0 to exit***")
     print("***Press 1 to perform Addition***")
     print("***Press 2 to perform Subtraction***")
